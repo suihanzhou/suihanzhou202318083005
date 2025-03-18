@@ -20,3 +20,13 @@
            x.style.fontSize="25px";
            x.style.color="red";
          }
+
+         var myHeadline=document.getElementById("demo");
+         myHeadline.innerHTML="CLICK 'CHANGE' TO CHANGE THE COLOR AND FONT."
+         "CLICK 'CHANGE' TO CHANGE THE COLOR AND FONT."
+         myHeadline.style.backgroundColor="#D93600"
+         '#D93600'
+         myHeadline.style.fontSize="20px"
+         '20px'
+         myHeadline.style.color="white"
+         'white'
